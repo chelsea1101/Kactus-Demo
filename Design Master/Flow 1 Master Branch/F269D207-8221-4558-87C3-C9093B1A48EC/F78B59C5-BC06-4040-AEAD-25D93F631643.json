@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "2E550D2F-1E43-4AE6-BF9F-057392C7C727",
+  "do_objectID": "F78B59C5-BC06-4040-AEAD-25D93F631643",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -76,7 +76,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "24809835-A317-45D6-9AC1-404AA2236E0A",
+    "do_objectID": "AADE5082-C33C-417C-808D-22C91D8901F0",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -89,10 +89,5 @@
     "windingRule": 1
   },
   "symbolID": "031FAB4B-58C3-477E-B06B-B46E14EAB6F1",
-  "userInfo": {
-    "com.abynim.sketchplugins.userflows": {
-      "destinationArtboardID": "F269D207-8221-4558-87C3-C9093B1A48EC"
-    }
-  },
   "verticalSpacing": 0
 }

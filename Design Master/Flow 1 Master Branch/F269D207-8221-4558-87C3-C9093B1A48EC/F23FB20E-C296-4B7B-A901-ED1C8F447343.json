@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "2E550D2F-1E43-4AE6-BF9F-057392C7C727",
+  "do_objectID": "F23FB20E-C296-4B7B-A901-ED1C8F447343",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 44,
+    "height": 1106,
     "width": 343,
     "x": 16,
-    "y": 1543
+    "y": 341
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,14 +28,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Buttons / Primary / Disabled",
+  "name": "Shapes / Receipt",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "overrideName": "37E94704-1C9B-4A05-9421-B705B7667710_stringValue",
-      "value": "Hoàn thành"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -76,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "24809835-A317-45D6-9AC1-404AA2236E0A",
+    "do_objectID": "583727F7-86F0-4895-BE2B-873F33317330",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -88,11 +83,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "031FAB4B-58C3-477E-B06B-B46E14EAB6F1",
-  "userInfo": {
-    "com.abynim.sketchplugins.userflows": {
-      "destinationArtboardID": "F269D207-8221-4558-87C3-C9093B1A48EC"
-    }
-  },
+  "symbolID": "F67877BB-DA84-4F8C-B9EF-01E5F7C7154E",
   "verticalSpacing": 0
 }

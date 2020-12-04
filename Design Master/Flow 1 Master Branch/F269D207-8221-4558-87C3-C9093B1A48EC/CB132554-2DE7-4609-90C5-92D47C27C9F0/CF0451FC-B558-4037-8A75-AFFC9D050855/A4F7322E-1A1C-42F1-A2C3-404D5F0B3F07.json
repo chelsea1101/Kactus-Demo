@@ -1,8 +1,9 @@
 {
-  "_class": "symbolInstance",
+  "_class": "oval",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "2E550D2F-1E43-4AE6-BF9F-057392C7C727",
+  "do_objectID": "A4F7322E-1A1C-42F1-A2C3-404D5F0B3F07",
+  "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,32 +16,67 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 44,
-    "width": 343,
-    "x": 16,
-    "y": 1543
+    "height": 60,
+    "width": 60,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
+  "isClosed": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "Buttons / Primary / Disabled",
+  "layerListExpandedType": 1,
+  "name": "Action",
   "nameIsFixed": false,
-  "overrideValues": [
+  "pointRadiusBehaviour": 1,
+  "points": [
     {
-      "_class": "overrideValue",
-      "overrideName": "37E94704-1C9B-4A05-9421-B705B7667710_stringValue",
-      "value": "Hoàn thành"
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.77614237490000004, 1}",
+      "curveMode": 2,
+      "curveTo": "{0.22385762510000001, 1}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.5, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1, 0.22385762510000001}",
+      "curveMode": 2,
+      "curveTo": "{1, 0.77614237490000004}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{1, 0.5}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.22385762510000001, 0}",
+      "curveMode": 2,
+      "curveTo": "{0.77614237490000004, 0}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.5, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 0.77614237490000004}",
+      "curveMode": 2,
+      "curveTo": "{0, 0.22385762510000001}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0, 0.5}"
     }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -76,7 +112,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "24809835-A317-45D6-9AC1-404AA2236E0A",
+    "do_objectID": "44994794-BD6B-4DB3-84D0-102409F18830",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -87,12 +123,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "031FAB4B-58C3-477E-B06B-B46E14EAB6F1",
-  "userInfo": {
-    "com.abynim.sketchplugins.userflows": {
-      "destinationArtboardID": "F269D207-8221-4558-87C3-C9093B1A48EC"
-    }
-  },
-  "verticalSpacing": 0
+  }
 }

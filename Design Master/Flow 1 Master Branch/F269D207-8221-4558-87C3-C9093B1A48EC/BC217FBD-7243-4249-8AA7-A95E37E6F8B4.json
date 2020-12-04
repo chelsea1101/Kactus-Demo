@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "2E550D2F-1E43-4AE6-BF9F-057392C7C727",
+  "do_objectID": "BC217FBD-7243-4249-8AA7-A95E37E6F8B4",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 44,
+    "height": 80,
     "width": 343,
     "x": 16,
-    "y": 1543
+    "y": 795
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,13 +28,23 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Buttons / Primary / Disabled",
+  "name": "Typography / Confirmation / Body 1 / 1 Line Copy 4",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "37E94704-1C9B-4A05-9421-B705B7667710_stringValue",
-      "value": "Hoàn thành"
+      "overrideName": "CCCE2D01-AF7B-4B52-BE62-6D2B4988014B_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DB4C1946-1FCE-4E9A-A026-560CFA21B7B7_stringValue",
+      "value": "1 tháng/lần"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B843CA4A-EB94-4B4B-935F-C1D8438B2D6C_stringValue",
+      "value": "Kỳ hạn trả nợ lãi"
     }
   ],
   "resizingConstraint": 63,
@@ -76,7 +86,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "24809835-A317-45D6-9AC1-404AA2236E0A",
+    "do_objectID": "42D209F3-8040-4E0C-9AF3-75BD3602D35F",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -88,11 +98,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "031FAB4B-58C3-477E-B06B-B46E14EAB6F1",
-  "userInfo": {
-    "com.abynim.sketchplugins.userflows": {
-      "destinationArtboardID": "F269D207-8221-4558-87C3-C9093B1A48EC"
-    }
-  },
+  "symbolID": "A0C7308E-9A98-4DE0-B2BA-CDFCC48B1952",
   "verticalSpacing": 0
 }

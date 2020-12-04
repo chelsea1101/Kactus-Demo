@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
-  "booleanOperation": -1,
+  "_class": "group",
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "2E550D2F-1E43-4AE6-BF9F-057392C7C727",
+  "do_objectID": "CB132554-2DE7-4609-90C5-92D47C27C9F0",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,33 +14,38 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 44,
-    "width": 343,
-    "x": 16,
-    "y": 1543
+    "constrainProportions": true,
+    "height": 60,
+    "width": 60,
+    "x": 158,
+    "y": 115
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "Buttons / Primary / Disabled",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layerListExpandedType": 2,
+  "layers": [
     {
-      "_class": "overrideValue",
-      "overrideName": "37E94704-1C9B-4A05-9421-B705B7667710_stringValue",
-      "value": "Hoàn thành"
+      "class": "shapeGroup",
+      "id": "CF0451FC-B558-4037-8A75-AFFC9D050855"
+    },
+    {
+      "class": "shapePath",
+      "id": "1765B5AB-E111-4893-A060-5751E2D4B804"
     }
   ],
+  "name": "Action Copy",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -76,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "24809835-A317-45D6-9AC1-404AA2236E0A",
+    "do_objectID": "45A9938A-5320-42D2-82E7-C67BCE0EB63B",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -88,11 +93,25 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "031FAB4B-58C3-477E-B06B-B46E14EAB6F1",
   "userInfo": {
-    "com.abynim.sketchplugins.userflows": {
-      "destinationArtboardID": "F269D207-8221-4558-87C3-C9093B1A48EC"
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 60,
+            "enabled": 1,
+            "modelID": "constraint_2dd2b448-4979-407e-b876-42f0afbea16a",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 60
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_e3a26ae7-b7f1-4c95-9fc3-d22d3d80dbcd",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
     }
-  },
-  "verticalSpacing": 0
+  }
 }

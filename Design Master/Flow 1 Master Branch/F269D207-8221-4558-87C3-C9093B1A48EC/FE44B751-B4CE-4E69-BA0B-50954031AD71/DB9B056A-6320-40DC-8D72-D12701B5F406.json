@@ -1,8 +1,9 @@
 {
-  "_class": "symbolInstance",
+  "_class": "bitmap",
   "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "2E550D2F-1E43-4AE6-BF9F-057392C7C727",
+  "do_objectID": "DB9B056A-6320-40DC-8D72-D12701B5F406",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -12,35 +13,33 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 44,
-    "width": 343,
-    "x": 16,
-    "y": 1543
+    "constrainProportions": true,
+    "height": 688,
+    "width": 1223.111111111111,
+    "x": -361.9999999999999,
+    "y": -70
   },
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/b71274137e93815363597397ac016d5e05a710cf.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Buttons / Primary / Disabled",
+  "name": "MB_3D_Background_LightBlue_HR",
   "nameIsFixed": false,
-  "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "overrideName": "37E94704-1C9B-4A05-9421-B705B7667710_stringValue",
-      "value": "Hoàn thành"
-    }
-  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -68,15 +67,15 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": false,
+      "isEnabled": true,
       "saturation": 1
     },
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 1
+      "opacity": 0.800000011920929
     },
-    "do_objectID": "24809835-A317-45D6-9AC1-404AA2236E0A",
+    "do_objectID": "51EF6FC6-464A-4D0E-88BD-62B4F5FC3E9D",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -88,11 +87,25 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "031FAB4B-58C3-477E-B06B-B46E14EAB6F1",
   "userInfo": {
-    "com.abynim.sketchplugins.userflows": {
-      "destinationArtboardID": "F269D207-8221-4558-87C3-C9093B1A48EC"
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 688,
+            "enabled": 1,
+            "modelID": "constraint_c28a71cb-e408-44de-acc4-56c45285f59c",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 1223.111
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_9a6b1d5e-759c-4e02-9c85-64b582ba8249",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
     }
-  },
-  "verticalSpacing": 0
+  }
 }

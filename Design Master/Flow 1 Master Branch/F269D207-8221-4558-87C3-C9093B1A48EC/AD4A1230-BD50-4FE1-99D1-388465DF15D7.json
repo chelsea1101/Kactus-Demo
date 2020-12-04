@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "2E550D2F-1E43-4AE6-BF9F-057392C7C727",
+  "do_objectID": "AD4A1230-BD50-4FE1-99D1-388465DF15D7",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 44,
-    "width": 343,
-    "x": 16,
-    "y": 1543
+    "height": 70,
+    "width": 375,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,13 +28,23 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Buttons / Primary / Disabled",
+  "name": "Bars / App Bar / Default / Normal",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "37E94704-1C9B-4A05-9421-B705B7667710_stringValue",
-      "value": "Hoàn thành"
+      "overrideName": "DCB670A7-D3EE-4FE6-B6D8-F17DCFB37ACC_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7E77E928-17F0-4343-A4E0-514D7730B524_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1DA711E6-975B-4E9B-A814-500E31463404_stringValue",
+      "value": "Khoản vay của bạn đã được duyệt"
     }
   ],
   "resizingConstraint": 63,
@@ -76,7 +86,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "24809835-A317-45D6-9AC1-404AA2236E0A",
+    "do_objectID": "9D10BDD4-A08A-41FD-9C09-D17FE62C1DA4",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -88,11 +98,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "031FAB4B-58C3-477E-B06B-B46E14EAB6F1",
-  "userInfo": {
-    "com.abynim.sketchplugins.userflows": {
-      "destinationArtboardID": "F269D207-8221-4558-87C3-C9093B1A48EC"
-    }
-  },
+  "symbolID": "795A8C9F-F486-4C34-8CBB-8EEE535011F3",
   "verticalSpacing": 0
 }
