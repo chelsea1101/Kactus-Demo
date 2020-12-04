@@ -1,0 +1,108 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "007245C4-E55D-436C-B7F4-7745C6CA924D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 76,
+    "width": 343,
+    "x": 0,
+    "y": 232
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Text Styles / Custom / 343 / ...",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "6CD5D1DD-A633-48D5-8E36-A9EC7B094D2B_symbolID",
+      "value": "57749058-D08B-480A-9C0E-681F54CFDA12"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "717610C9-5E31-49FF-8E1F-EE5ABD961817/920459F6-CD40-4E49-A1F4-3CC4BA4E35E4_layerStyle",
+      "value": "A0EED8C7-F9B1-427F-9AF4-11994D398A7A"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D124F046-C587-4247-A032-169F9D8C2996_stringValue",
+      "value": "Truy vấn và trả nợ"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "A51CF9D2-1628-4A01-AAFA-4E89CC1E0A10",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1B1C4728-9395-4B82-A909-DEBD26138103",
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "destinationArtboardID": "B8AE553A-9C96-47C3-BACA-E0C8678A0EBA"
+    }
+  },
+  "verticalSpacing": 0
+}

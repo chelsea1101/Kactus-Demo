@@ -1,0 +1,235 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9686274509803922,
+    "green": 0.9686274509803922,
+    "red": 0.9686274509803922
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3D291ED1-DE16-4F20-915E-3EB47776D177",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 2,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1663,
+    "width": 375,
+    "x": 2223,
+    "y": -1004
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "032AE3E6-7765-40EC-92CB-58D6856BD163"
+    },
+    {
+      "class": "text",
+      "id": "B08CCC44-AA39-4614-AE54-ED35AB70B666"
+    },
+    {
+      "class": "rectangle",
+      "id": "0B648A9E-B60F-4536-B5DA-17F9DCC29820"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "18C33B66-544D-49B6-B6CF-BE32AEC52233"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FBC759D7-2DF7-45EB-A7C6-22AACE71E32C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5966E2EA-FE6F-419F-9C18-473E057E3A10"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "717736CD-A68C-4696-9324-BC238192DAE6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FF77D135-B595-42CA-8895-3F1B92FBB499"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5F138F6D-F65C-427F-B8F9-377D5F457CF2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EAD9CF5B-F274-4FEF-A26D-CA35FA98FB43"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3DA61F5C-EE01-48D1-8C07-9D607CCE6AB5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8D53F21B-E1A6-4581-99FD-6996B4E31818"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "212E890D-7545-4758-B807-48A673234436"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "90107616-5B5D-4C02-A0D7-576D57E05779"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "92A9AB2F-9F0D-47F5-B3CA-2AEC9840073C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5D203035-4528-4FF9-8A6B-965657D75840"
+    },
+    {
+      "class": "text",
+      "id": "61E1728B-1629-40E8-AD80-A298D46A9DA6"
+    },
+    {
+      "class": "text",
+      "id": "7112F643-CCC1-4417-96F4-F29083485BFA"
+    },
+    {
+      "class": "group",
+      "id": "EC5511E0-6DEF-433C-889C-10EBED3C1E4F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2E550D2F-1E43-4AE6-BF9F-057392C7C727"
+    },
+    {
+      "class": "text",
+      "id": "44998296-524B-4778-B4FC-2BE16395DE0C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "208BD6F6-69F1-49D2-9710-569AD3C872AA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "53FE2F44-876D-4088-8651-25EFED3B6C12"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 43.83333333333334,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 16,
+    "guttersOutside": true,
+    "horizontalOffset": 8,
+    "isEnabled": false,
+    "numberOfColumns": 6,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 359
+  },
+  "name": "Flow 1 Master Branch - 11",
+  "nameIsFixed": true,
+  "presetDictionary": {
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "D5817125-FD8A-4DF1-827E-46943E800758",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "artboardID": "3D291ED1-DE16-4F20-915E-3EB47776D177"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

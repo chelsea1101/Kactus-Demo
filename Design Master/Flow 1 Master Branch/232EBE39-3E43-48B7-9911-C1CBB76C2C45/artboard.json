@@ -1,0 +1,199 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9686274509803922,
+    "green": 0.9686274509803922,
+    "red": 0.9686274509803922
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "232EBE39-3E43-48B7-9911-C1CBB76C2C45",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 2,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 933,
+    "width": 375,
+    "x": -152,
+    "y": -1002
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "8DDD2069-E334-4CA2-831D-DE08C0B367EB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2855CE6B-DDDB-4879-A4F8-A121A53D09E1"
+    },
+    {
+      "class": "text",
+      "id": "C1FA832F-6879-4B4E-9437-BDDCC41A7CCB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CF97EB33-B9EB-41E2-960C-7897A600495B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "49358849-7A3B-45A1-8569-17D8DFD862F2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "310F0DF9-5582-4D9A-AE59-4F27B7BEBDBC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4DAE93D0-7A8B-4B02-8521-18387D6D34BB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "845469B2-0641-4E46-B796-4F22BBBA471F"
+    },
+    {
+      "class": "text",
+      "id": "EA8B1BC6-5538-4B09-90B4-84ABE2203B6E"
+    },
+    {
+      "class": "text",
+      "id": "B0AC523A-FE49-4285-B093-BB043BAE2B2E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "58E3EF2F-89B5-4E7D-A5DB-339F01EE9321"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "21A5A95A-CB47-4B03-97AE-F9EF9DD79101"
+    },
+    {
+      "class": "group",
+      "id": "068EE1B0-15BA-4393-8EC5-70EFE8CDF9BA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7C08B7E2-7450-41A4-92E3-6300230B9EFC"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 43.83333333333334,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 16,
+    "guttersOutside": true,
+    "horizontalOffset": 8,
+    "isEnabled": false,
+    "numberOfColumns": 6,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 359
+  },
+  "name": "Flow 1 Master Branch - 3",
+  "nameIsFixed": false,
+  "presetDictionary": {
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "DF323553-904F-40C6-91FC-7006A7C17FA9",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "artboardID": "232EBE39-3E43-48B7-9911-C1CBB76C2C45"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

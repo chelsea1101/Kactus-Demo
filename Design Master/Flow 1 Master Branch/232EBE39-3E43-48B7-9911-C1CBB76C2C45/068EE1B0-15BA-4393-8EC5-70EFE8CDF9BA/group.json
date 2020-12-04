@@ -1,0 +1,135 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "068EE1B0-15BA-4393-8EC5-70EFE8CDF9BA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 76,
+    "width": 343,
+    "x": 16,
+    "y": 236
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D95F677B-D76B-42C1-861E-06E3BECC9D37"
+    },
+    {
+      "class": "group",
+      "id": "9089AA8A-D0E0-4747-8696-1467A169F908"
+    }
+  ],
+  "name": "Cards / Secondary Navigation / 1 Line / Normal Copy 7",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "7ADA86D4-7CAC-4B42-A537-CCAB03169794",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "destinationArtboardID": "3DBB2D20-CDEC-41E8-AAC5-C75552E75806"
+    },
+    "com.bohemiancoding.sketchtool.detach": {
+      "symbolInstance": {
+        "do_objectID": "61AEB5C2-1CAC-4F7A-BFF3-BDE2CC9C56D0",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 76,
+          "width": 343,
+          "x": 16,
+          "y": 236
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "098FE8B7-5EE6-4920-B507-F10584BE5B13",
+        "symbolID": "120D9150-A3F8-4FB7-B248-4390BD2AA2C2"
+      }
+    },
+    "com.sketch.detach": {
+      "symbolInstance": {
+        "do_objectID": "61AEB5C2-1CAC-4F7A-BFF3-BDE2CC9C56D0",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 76,
+          "width": 343,
+          "x": 16,
+          "y": 236
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "098FE8B7-5EE6-4920-B507-F10584BE5B13",
+        "symbolID": "120D9150-A3F8-4FB7-B248-4390BD2AA2C2"
+      }
+    }
+  }
+}

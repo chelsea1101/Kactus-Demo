@@ -1,0 +1,143 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BD752352-1F9D-4687-8D71-720D5BBD63EC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 64,
+    "width": 343,
+    "x": 16,
+    "y": 232
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "4C6C8A79-A643-4448-A387-94FC07E1460F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "07BC752A-D314-44B1-82D8-7116140B5AD7"
+    },
+    {
+      "class": "text",
+      "id": "BF5BBA8E-0563-42E6-BFBD-C8DCDA0BFF1F"
+    },
+    {
+      "class": "text",
+      "id": "AB30CA4B-5409-43F7-AC35-D23254AA63F7"
+    }
+  ],
+  "name": "Text Fields / Dropdown / Account Copy 4",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "1EAA837C-B7E0-4172-BABE-0304D4D72027",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "destinationArtboardID": "9B146FBF-6696-45C6-A8A2-96893221606F"
+    },
+    "com.bohemiancoding.sketchtool.detach": {
+      "symbolInstance": {
+        "do_objectID": "D158249D-F672-4829-BCAC-1A86AC3FB7D6",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 64,
+          "width": 343,
+          "x": 16,
+          "y": 518
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "BBFB3AF5-EA0B-46DF-8D18-61A3DA8E8E37",
+        "symbolID": "C538075D-2CF6-4932-BC2F-FFE0947D7EA3"
+      }
+    },
+    "com.sketch.detach": {
+      "symbolInstance": {
+        "do_objectID": "D158249D-F672-4829-BCAC-1A86AC3FB7D6",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 64,
+          "width": 343,
+          "x": 16,
+          "y": 518
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "BBFB3AF5-EA0B-46DF-8D18-61A3DA8E8E37",
+        "symbolID": "C538075D-2CF6-4932-BC2F-FFE0947D7EA3"
+      }
+    }
+  }
+}
