@@ -89,5 +89,10 @@
     "windingRule": 1
   },
   "symbolID": "031FAB4B-58C3-477E-B06B-B46E14EAB6F1",
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "destinationArtboardID": "B19D0112-78DA-45F5-AE2C-C514A1907225"
+    }
+  },
   "verticalSpacing": 0
 }

@@ -1,0 +1,181 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "86173205-E14A-4919-BE80-33A0DBA65BE8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1403,
+    "width": 4417,
+    "x": -1158,
+    "y": -820
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "3A59DAD1-6CF9-4D70-A94F-25E1F20C1EFA"
+    },
+    {
+      "class": "shapePath",
+      "id": "B53748E4-C236-4168-A1D6-240BD37686F5"
+    },
+    {
+      "class": "rectangle",
+      "id": "9DA4FB40-D525-4F0F-9A37-6131FE4FB7F2"
+    },
+    {
+      "class": "shapePath",
+      "id": "3A54BA6A-4825-4568-A9A0-3FF7CAE5E78C"
+    },
+    {
+      "class": "rectangle",
+      "id": "07FF2C81-47AA-475C-B768-D0C075A3D11C"
+    },
+    {
+      "class": "shapePath",
+      "id": "9A34E14A-EB6B-4F29-8E40-4CF43868A84B"
+    },
+    {
+      "class": "rectangle",
+      "id": "13797B59-1964-4321-9EEC-600940D0A59A"
+    },
+    {
+      "class": "shapePath",
+      "id": "CDE678C4-BBE2-442F-9CE9-6AFA4A8223AB"
+    },
+    {
+      "class": "rectangle",
+      "id": "CB93F82E-1C12-4D37-9867-7052C5E35A24"
+    },
+    {
+      "class": "shapePath",
+      "id": "0807C835-3235-4E2C-9D29-CF9049BABCDA"
+    },
+    {
+      "class": "rectangle",
+      "id": "6D13EE87-7223-4437-A54E-0208651BC931"
+    },
+    {
+      "class": "shapePath",
+      "id": "30740F48-97D0-4BAA-B7CA-987E01A04758"
+    },
+    {
+      "class": "rectangle",
+      "id": "88117CCA-9555-45B2-A04E-CCF23FAF2816"
+    },
+    {
+      "class": "shapePath",
+      "id": "760D40C6-5D03-4695-85E1-AA6F41854B9A"
+    },
+    {
+      "class": "rectangle",
+      "id": "6013439A-7FC4-43D0-97D8-F57B946C9B98"
+    },
+    {
+      "class": "shapePath",
+      "id": "6ED86357-7037-4CDE-ABD2-D12A09370FF1"
+    },
+    {
+      "class": "shapePath",
+      "id": "D65B9DFA-7494-4C0B-A296-C864407E0C97"
+    },
+    {
+      "class": "shapePath",
+      "id": "6A691A0F-5B6C-4232-9944-9F379302DC8D"
+    },
+    {
+      "class": "rectangle",
+      "id": "BCC964C0-0AC0-412E-A3E6-8A12E9A8F467"
+    },
+    {
+      "class": "shapePath",
+      "id": "FD4E1886-7B16-444E-B9C8-223C29E31D1F"
+    },
+    {
+      "class": "rectangle",
+      "id": "EC1A010F-FC94-4D96-BB71-70908E474368"
+    },
+    {
+      "class": "shapePath",
+      "id": "F7E303C7-B486-4D1E-83CB-AAB2D18932B2"
+    }
+  ],
+  "name": "-Connections",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "6474A341-F0EE-466E-9B1B-7BF8BDF570A6",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "isConnectionsContainer": 1
+    }
+  }
+}
